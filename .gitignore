@@ -2,3 +2,4 @@
 .vagrant
 .vagrant-shared
 packer_cache
+builds
