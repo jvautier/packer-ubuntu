@@ -248,7 +248,6 @@
         "{{template_dir}}/scripts/vmware.sh",
         "{{template_dir}}/../_common/parallels.sh",
         "{{template_dir}}/scripts/hyperv.sh",
-        "{{template_dir}}/scripts/desktop.sh",
         "{{template_dir}}/scripts/cleanup.sh",
         "{{template_dir}}/../_common/minimize.sh"
       ],

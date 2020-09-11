@@ -1,0 +1,4 @@
+.envrc
+.vagrant
+.vagrant-shared
+packer_cache

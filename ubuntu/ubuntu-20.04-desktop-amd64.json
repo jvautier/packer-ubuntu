@@ -274,7 +274,7 @@
     "memory": "1024",
     "mirror": "http://cdimage.ubuntu.com",
     "mirror_directory": "ubuntu-legacy-server/releases/20.04.1/release",
-    "name": "ubuntu-20.04",
+    "name": "ubuntu-20.04-desktop",
     "no_proxy": "{{env `no_proxy`}}",
     "preseed_path": "preseed.cfg",
     "template": "ubuntu-20.04-amd64",
