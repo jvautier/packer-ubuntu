@@ -1,4 +1,5 @@
 ---
+# See https://github.com/jvautier/project-cli
 fullname: jvautier/packer-ubuntu
 description: Packer templates for ubuntu
 tags:
