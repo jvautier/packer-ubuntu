@@ -1,0 +1,8 @@
+---
+fullname: jvautier/packer-ubuntu
+description: Packer templates for ubuntu
+tags:
+  - packer
+  - ubuntu
+  - ubuntu-desktop
+github: {}
