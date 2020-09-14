@@ -6,4 +6,7 @@ tags:
   - packer
   - ubuntu
   - ubuntu-desktop
-github: {}
+github:
+  has_issues: true
+  has_projects: false
+  has_wiki: false
