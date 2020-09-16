@@ -277,7 +277,7 @@
     "name": "ubuntu-20.04-desktop",
     "no_proxy": "{{env `no_proxy`}}",
     "preseed_path": "preseed.cfg",
-    "template": "ubuntu-20.04-amd64",
+    "template": "ubuntu-20.04-desktop-amd64",
     "version": "TIMESTAMP"
   }
 }
